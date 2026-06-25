@@ -2,7 +2,7 @@
 
 > **Purpose.** This is a reusable, project-agnostic standard for implementing or
 > refactoring navigation menus on **any** WordPress site. Point an agent at this
-> file and instruct: *"Implement menus following WORDPRESS-MENU-STANDARD.md,
+> file and instruct: *"Implement menus following this file,
 > adapting it to this site's architecture."* It is both a **specification** of the
 > pattern and a **prompt** for carrying it out. It assumes nothing about theme
 > structure, build tooling, or naming conventions — Step 0 tells the agent how to
